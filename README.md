@@ -28,7 +28,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 This is a short but comprehensive study guide for the main elements we'll be going over in the course. Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
